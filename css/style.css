@@ -37,8 +37,8 @@ h2{
 }
 
 #navbar a {
-	display:purple;
-	color:brown;
+	display:block;
+	color:purple;
 	text-align: center;
 	padding:15px 18px;
 	text-decoration: none;
