@@ -59,7 +59,8 @@ p{
 }
 
 #navbar ul li{
-	list-style-type:none
+	list-style-type:none;
+	float:center;
 }
 
 #navbar-container{ 
