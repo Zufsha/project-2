@@ -1,5 +1,16 @@
-body{
-		background:black;
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+	border:0;
+	outline:0;
+	vertical-align: baseline;
+	font-size:100%;
+}
+
+
+body {
+		background-color:black;
 		background-image: linear-gradient(pink, purple);
 		font-family: serif;
 
@@ -47,7 +58,7 @@ p{
 	display:block;
 	color:purple;
 	text-align: center;
-	padding:15px 18px;
+	padding:60px 18px;
 	text-decoration: none;
 }
 
@@ -70,5 +81,4 @@ p{
 	position:relative;
 	padding: 10px;
 }
-	
 	
