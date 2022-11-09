@@ -51,7 +51,7 @@ p{
 	top: 0;
 	width:100%;
 	font-size: 20px;
-	float:left;
+
 	
 }
 
@@ -61,6 +61,7 @@ p{
 	text-align: center;
 	padding:60px 18px;
 	text-decoration: none;
+	float:left;
 }
 
 
