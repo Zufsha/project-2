@@ -19,7 +19,6 @@ h1{
 	color: black;
 	background-color: #CBC3E3;
 	font-size:60px;
-	float:center;
 }
 
 h2{
@@ -34,7 +33,6 @@ h2{
 
 h3 {
 	font-size:25px;
-	float:center;
 }
 
 p{
@@ -72,7 +70,7 @@ p{
 
 #navbar ul li{
 	list-style-type:none;
-	float:center;
+
 }
 
 #navbar-container{ 
