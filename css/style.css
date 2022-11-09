@@ -15,7 +15,8 @@ h1{
 	padding:25px;
 	text-align: center;
 	color: black;
-	background-color: #CBC3E3
+	background-color: #CBC3E3;
+	font-size:60px;
 }
 
 h2{
@@ -24,7 +25,12 @@ h2{
 	background-color: #add8e6;
 	width:300px;
 	text-align: center;
+	font-size:40px
 	
+}
+
+p{
+	font-family: Lucida Console;
 }
 
 #navbar {
